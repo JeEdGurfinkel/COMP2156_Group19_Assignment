@@ -1,0 +1,1 @@
+The importance of learning devops it's huge since we do learn how to use commands in gitbash to post stuff in our github 
