@@ -1,5 +1,20 @@
 # COMP2156_Group19_Assignment
 
+1. Project Title 
+2. Group Members: 
+o List each member with their Student ID and GitHub 
+username. 
+3. Project Description: 
+o Brief overview of what the assignment entails. 
+4. Instructions: 
+o How to set up the project locally. 
+5. CI/CD Details: 
+o Information about the CI pipeline setup. 
+6. Branching Strategy: 
+o Explain the branching conventions used. 
+
+
+
 Just so there's something in the read me, here are the assignment instructions
 
 Group Assignment 
