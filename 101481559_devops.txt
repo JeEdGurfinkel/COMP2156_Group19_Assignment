@@ -1,2 +1,3 @@
 COMP 3104 - DevOps is focus on teaching  CI/CD, cloud automation, and monitoring.
 DevOps courses.
+Students learn tools like Git
