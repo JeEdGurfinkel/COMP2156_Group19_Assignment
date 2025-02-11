@@ -1,1 +1,0 @@
-The course include platforms such a Azure, and Google Cloud for DevOps.
