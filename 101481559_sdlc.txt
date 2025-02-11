@@ -1,2 +1,3 @@
 DevOps speeds up software delivery through automation, collaboration, and CI/CD.nd automates processes.
 DevOps significantly reduces deployment time.
+CI/CD pipelines automate code.
