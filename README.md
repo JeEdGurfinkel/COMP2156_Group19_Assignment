@@ -21,3 +21,5 @@ then switch to branch using the code git checkout
  The project utilizes GitHub Actions 
  ## Branching Strategy 
  Each member of the group has their own branch named with their student ID and name 
+
+ ## test
