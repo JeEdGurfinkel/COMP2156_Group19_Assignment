@@ -1,0 +1,1 @@
+DevOps integrates seamlessly into the Software Development Life Cycle (SDLC) by promoting continuous testing and deployment.
