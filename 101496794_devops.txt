@@ -1,1 +1,3 @@
-The course covers Continuous Integration (CI) and Continuous Deployment (CD) to improve the development lifecycle
+The course covers Continuous Integration (CI) and Continuous Deployment (CD) to improve the development lifecycle.
+Popular tools like Jenkins, Docker, and Kubernetes are used to automate the development pipeline and facilitate collaboration.
+Companies like Netflix, Amazon, and Etsy rely heavily on DevOps practices to scale their systems and deploy faster.
