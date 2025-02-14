@@ -1,1 +1,4 @@
-the dev ops course feals more like a git hub course to me right now. but I can't make any conclusions about that.
+I can't comment on the COMP 3104 DevOps course, because I've never actually taken it. I can comment on the COMP 2156 DevOps course, but that's obviously a different class entirely. 
+
+
+the dev ops course feels more like a git hub course to me right now. but I can't make any conclusions about that.
