@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+     
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
@@ -14,8 +14,10 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Check out repository code 
-      - run: echo "💡 🖥 The ${{ github.repository }} repository has been cloned to the runner." 
+        run: echo "💡 🖥 The ${{ github.repository }} repository has been cloned to the runner." 
       - run: echo "🍏 The workflow is now ready to test your code on the runner." 
+
+      - uses: actions/checkout@v4
       - name: List files in the repository 
         run: |
           ls ${{ github.workspace }} 
