@@ -3,7 +3,7 @@
 ## Group Members
 Leader : Jeffrey Gurfinkel(100695290)-[Github](https://github.com/JeEdGurfinkel)
 Member 2 : Kevin Zaid Hernandez Nieto (101515102)-[GitHub](https://github.com/ZaidNieto2004)
-Member 3 : MadHumitha (101496794)-[GitHub](https://github.com/Madhumitha680)
+Member 3 : Madhumitha (101496794)-[GitHub](https://github.com/Madhumitha680)
 Member 4 : Ilda (101481559)-[GitHub](https://github.com/Ipat03)
 Member 5 : Fateha(101538233)-[GitHub](https://github.com/Fateha-Akther)
 
